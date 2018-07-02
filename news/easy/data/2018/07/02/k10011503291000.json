@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011503291000",
+  "news_prearranged_time": "2018-07-02 15:30:00",
+  "title": "富士山　山梨県から登る道で「山開き」",
+  "title_with_ruby": "<ruby>富士山<rt>ふじさん</rt></ruby>　<ruby>山梨県<rt>やまなしけん</rt></ruby>から<ruby>登<rt>のぼ</rt></ruby>る<ruby>道<rt>みち</rt></ruby>で「<ruby>山開<rt>やまびら</rt></ruby>き」",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>富士山<rt>ふじさん</rt></ruby></a>には、<ruby>山梨県<rt>やまなしけん</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>から<ruby>登<rt>のぼ</rt></ruby>ることができます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180701/../20180701/K10011503291_1807011043_1807011045_01_03.jpg",
+  "news_web_movie_uri": "k10011503291_201807011043_201807011044.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011503291000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011503291000/k10011503291000.html"
+}

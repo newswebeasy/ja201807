@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>土台</rb><rt>どだい</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>てて、<ruby><rb>屋根</rb><rt>やね</rt></ruby>などを<ruby><rb>支</rb><rt>ささ</rt></ruby>える<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>や<ruby><rb>鉄材</rb><rt>てつざい</rt></ruby>。",
+          "hyouki": [
+            "柱"
+          ]
+        },
+        {
+          "def": "たよりになる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "柱"
+          ]
+        },
+        {
+          "def": "まっすぐに<ruby><rb>立</rb><rt>た</rt></ruby>っているもの。",
+          "hyouki": [
+            "柱"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときのことば。",
+          "hyouki": [
+            "柱"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。",
+          "hyouki": [
+            "免許"
+          ]
+        },
+        {
+          "def": "<ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "免許"
+          ]
+        }
+      ]
+    }
+  }
+}

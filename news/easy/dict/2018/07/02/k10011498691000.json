@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "モーターで<ruby><rb>羽根</rb><rt>はね</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>して、<ruby><rb>風</rb><rt>かぜ</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "扇風機"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>や<ruby><rb>長</rb><rt>なが</rt></ruby>さなどを、<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>延</rb><rt>の</rt></ruby>ばすこと。",
+          "hyouki": [
+            "延長"
+          ]
+        },
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "延長"
+          ]
+        },
+        {
+          "def": "ひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのもの。",
+          "hyouki": [
+            "延長"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ゴムやビニルを<ruby><rb>巻</rb><rt>ま</rt></ruby>いて、<ruby><rb>電気</rb><rt>でんき</rt></ruby>が<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れないようにした<ruby><rb>電線</rb><rt>でんせん</rt></ruby>。",
+          "hyouki": [
+            "コード"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>となる。ちがえる。",
+          "hyouki": [
+            "間違える"
+          ]
+        },
+        {
+          "def": "とりちがえてしくじる。",
+          "hyouki": [
+            "間違える"
+          ]
+        }
+      ]
+    }
+  }
+}

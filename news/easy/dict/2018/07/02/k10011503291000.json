@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは３７７６メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。",
+          "hyouki": [
+            "富士山"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。",
+          "hyouki": [
+            "頂"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>がのぼること。また、その<ruby><rb>時刻</rb><rt>じこく</rt></ruby>。",
+          "hyouki": [
+            "日の出"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ]
+    }
+  }
+}
