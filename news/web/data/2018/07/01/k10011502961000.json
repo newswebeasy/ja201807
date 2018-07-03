@@ -29,7 +29,14 @@
       "duration": 0
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011502961000/k10011502961000.html",
+      "title": "旅行に来た外国人の買い物 免税の手続きが簡単になる",
+      "time": "NEWSWEB EASY 7月3日",
+      "datetime": "2018-07-03"
+    }
+  ],
   "word": [],
   "news_id": "k10011502961000",
   "yyyy": "2018",

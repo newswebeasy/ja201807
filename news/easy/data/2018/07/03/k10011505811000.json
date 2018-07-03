@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011505811000",
+  "news_prearranged_time": "2018-07-03 16:20:00",
+  "title": "サッカーのワールドカップ　日本がベルギーに負ける",
+  "title_with_ruby": "サッカーのワールドカップ　<ruby>日本<rt>にっぽん</rt></ruby>がベルギーに<ruby>負<rt>ま</rt></ruby>ける",
+  "outline_with_ruby": "<p>ロシアで<ruby>行<rt>おこな</rt></ruby>っている<a href='javascript:void(0)' class='dicWin' id='id-0000'>サッカー</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>ワールドカップ</a>では、１６<a href='javascript:void(0)' class='dicWin' id='id-0002'>チーム</a>の<ruby>中<rt>なか</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>優勝<rt>ゆうしょう</rt></ruby></a>を<ruby>決<rt>き</rt></ruby>める<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントが<ruby>始<rt>はじ</rt></ruby>まっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180703/../20180703/K10011505811_1807030550_1807030551_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011505811000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011505811000/k10011505811000.html"
+}

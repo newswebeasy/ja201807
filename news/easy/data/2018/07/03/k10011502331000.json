@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011502331000",
+  "news_prearranged_time": "2018-07-03 11:30:00",
+  "title": "「ハローキティ」の絵で飾った新幹線の運転が始まる",
+  "title_with_ruby": "「ハローキティ」の<ruby>絵<rt>え</rt></ruby>で<ruby>飾<rt>かざ</rt></ruby>った<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p>ＪＲ<ruby>西日本<rt>にしにほん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>から、「ハローキティ」がかいてある<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>新幹線<rt>しんかんせん</rt></ruby></a>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180630/../20180630/K10011502331_1806301259_1806301313_01_03.jpg",
+  "news_web_movie_uri": "k10011502331_201806301309_201806301309.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011502331000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011502331000/k10011502331000.html"
+}
