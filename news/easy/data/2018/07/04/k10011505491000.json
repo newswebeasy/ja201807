@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011505491000",
+  "news_prearranged_time": "2018-07-04 17:00:00",
+  "title": "「ふるさと納税」が５年続けて増える",
+  "title_with_ruby": "「ふるさと<ruby>納税<rt>のうぜい</rt></ruby>」が５<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>える",
+  "outline_with_ruby": "<p>「ふるさと<ruby>納税<rt>のうぜい</rt></ruby>」は、<a href='javascript:void(0)' class='dicWin' id='id-0000'>ふるさと</a>や<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>応援<rt>おうえん</rt></ruby></a>したいと<ruby>思<rt>おも</rt></ruby>っている<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などにお<ruby>金<rt>かね</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>寄付<rt>きふ</rt></ruby></a>することです。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180703/../20180703/K10011505491_1807030556_1807030623_01_03.jpg",
+  "news_web_movie_uri": "k10011505491_201807030556_201807030623.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011505491000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011505491000/k10011505491000.html"
+}

@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011505521000/k10011505521000.html",
+      "title": "香川県で育てた四角い形のすいか",
+      "time": "NEWSWEB EASY 7月4日",
+      "datetime": "2018-07-04"
+    }
+  ],
   "word": [],
   "news_id": "k10011505521000",
   "yyyy": "2018",

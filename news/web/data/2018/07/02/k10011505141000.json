@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011505141000/k10011505141000.html",
+      "title": "亀がメキシコから高知県まで太平洋を泳いで渡る",
+      "time": "NEWSWEB EASY 7月4日",
+      "datetime": "2018-07-04"
+    }
+  ],
   "word": [],
   "news_id": "k10011505141000",
   "yyyy": "2018",
