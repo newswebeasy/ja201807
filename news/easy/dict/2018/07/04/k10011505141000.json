@@ -1,0 +1,192 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>や<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>で<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>し、<ruby><rb>体</rb><rt>からだ</rt></ruby>がかたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>池</rb><rt>いけ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>にすむイシガメ・スッポン、<ruby><rb>陸</rb><rt>りく</rt></ruby>にすむゾウガメ、<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむアカウミガメなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。ほとんどの<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>首</rb><rt>くび</rt></ruby>や<ruby><rb>尾</rb><rt>お</rt></ruby>、<ruby><rb>足</rb><rt>あし</rt></ruby>をこうらの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>っこめることができる。",
+          "hyouki": [
+            "亀"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>や<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などで、<ruby><rb>目</rb><rt>め</rt></ruby>をあらく<ruby><rb>編</rb><rt>あ</rt></ruby>んだもの。<ruby><rb>虫</rb><rt>むし</rt></ruby>や<ruby><rb>魚</rb><rt>さかな</rt></ruby>・けものなどをとるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "網"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。",
+          "hyouki": [
+            "金属"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いた、<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>板</rb><rt>いた</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>や<ruby><rb>寺</rb><rt>てら</rt></ruby>で<ruby><rb>出</rb><rt>だ</rt></ruby>すお<ruby><rb>守</rb><rt>まも</rt></ruby>り。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "かるたやトランプなどのカード。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>にすむ<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、ガラス<ruby><rb>張</rb><rt>ば</rt></ruby>りの<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>水槽</rb><rt>すいそう</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>生</rb><rt>い</rt></ruby>きたままのようすを<ruby><rb>見</rb><rt>み</rt></ruby>せるようにした<ruby><rb>所</rb><rt>ところ</rt></ruby>。すいぞっかん。",
+          "hyouki": [
+            "水族館"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "もとに<ruby><rb>返</rb><rt>かえ</rt></ruby>す。",
+          "hyouki": [
+            "戻す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のものをはく。",
+          "hyouki": [
+            "戻す"
+          ]
+        }
+      ]
+    }
+  }
+}
