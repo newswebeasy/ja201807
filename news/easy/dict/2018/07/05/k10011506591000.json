@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>部屋</rb><rt>へや</rt></ruby>。<ruby><rb>室</rb><rt>しつ</rt></ruby>。",
+          "hyouki": [
+            "ルーム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>忘</rb><rt>わす</rt></ruby>れないように<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>やノート。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>え<ruby><rb>書</rb><rt>が</rt></ruby>き。",
+          "hyouki": [
+            "メモ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。",
+          "hyouki": [
+            "感謝"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>腰</rb><rt>こし</rt></ruby>かけ。<ruby><rb>長</rb><rt>なが</rt></ruby>いす。",
+          "hyouki": [
+            "ベンチ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などで、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>・<ruby><rb>監督</rb><rt>かんとく</rt></ruby>のいる<ruby><rb>席</rb><rt>せき</rt></ruby>。また、<ruby><rb>作戦</rb><rt>さくせん</rt></ruby>を<ruby><rb>指示</rb><rt>しじ</rt></ruby>する<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・コーチ。",
+          "hyouki": [
+            "ベンチ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>をかくとき、<ruby><rb>見習</rb><rt>みなら</rt></ruby>って<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>するための<ruby><rb>本</rb><rt>ほん</rt></ruby>。",
+          "hyouki": [
+            "手本"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見習</rb><rt>みなら</rt></ruby>うだけの<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがある<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>行</rb><rt>おこな</rt></ruby>い。",
+          "hyouki": [
+            "手本"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>心</rb><rt>こころ</rt></ruby>からえらいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "尊敬"
+          ]
+        }
+      ]
+    }
+  }
+}

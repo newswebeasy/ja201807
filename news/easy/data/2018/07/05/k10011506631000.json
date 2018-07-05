@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011506631000",
+  "news_prearranged_time": "2018-07-05 11:30:00",
+  "title": "消費者庁「家庭で捨てる食べ物が４０％少なくなった」",
+  "title_with_ruby": "<ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>「<ruby>家庭<rt>かてい</rt></ruby>で<ruby>捨<rt>す</rt></ruby>てる<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が４０％<ruby>少<rt>すく</rt></ruby>なくなった」",
+  "outline_with_ruby": "<p><ruby>買<rt>か</rt></ruby>った<ruby>肉<rt>にく</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>などが<ruby>古<rt>ふる</rt></ruby>くなったり、<ruby>料理<rt>りょうり</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>食<rt>た</rt></ruby>べなかったりして、<ruby>捨<rt>す</rt></ruby>てることが<ruby>問題<rt>もんだい</rt></ruby>になっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180703/../20180703/K10011506631_1807031425_1807031430_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011506631000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011506631000/k10011506631000.html"
+}
