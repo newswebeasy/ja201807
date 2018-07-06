@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        },
+        {
+          "def": "まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。",
+          "hyouki": [
+            "テーマ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>友達</rb><rt>ともだち</rt></ruby>どうしの<ruby><rb>思</rb><rt>おも</rt></ruby>いやりや、まごころ。",
+          "hyouki": [
+            "友情"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>異性</rb><rt>いせい</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きになる<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。<ruby><rb>恋愛</rb><rt>れんあい</rt></ruby>。",
+          "hyouki": [
+            "恋"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "こねた<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>の<ruby><rb>生地</rb><rt>きじ</rt></ruby>に、チーズ・トマト・サラミなどをのせて<ruby><rb>焼</rb><rt>や</rt></ruby>いたイタリアふうのパイ。ピッツァ。",
+          "hyouki": [
+            "ピザ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "イメージ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>場</rb><rt>ば</rt></ruby>の<ruby><rb>感</rb><rt>かん</rt></ruby>じや<ruby><rb>気分</rb><rt>きぶん</rt></ruby>。",
+          "hyouki": [
+            "雰囲気"
+          ]
+        }
+      ]
+    }
+  }
+}
