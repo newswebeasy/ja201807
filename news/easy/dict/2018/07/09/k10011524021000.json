@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。",
+          "hyouki": [
+            "九州地方"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>本州中央部</rb><rt>ほんしゅうちゅうおうぶ</rt></ruby>の<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>静岡</rb><rt>しずおか</rt></ruby>・<ruby><rb>愛知</rb><rt>あいち</rt></ruby>・<ruby><rb>三重</rb><rt>みえ</rt></ruby>の<ruby><rb>三県</rb><rt>さんけん</rt></ruby>と<ruby><rb>岐阜県</rb><rt>ぎふけん</rt></ruby>の<ruby><rb>南部</rb><rt>なんぶ</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。",
+          "hyouki": [
+            "東海地方"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かさ。ますめ。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "ものをはかる。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。",
+          "hyouki": [
+            "量"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>海</rb><rt>うみ</rt></ruby>があふれないように、<ruby><rb>川岸</rb><rt>かわぎし</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>に、<ruby><rb>石</rb><rt>いし</rt></ruby>やコンクリートなどで<ruby><rb>築</rb><rt>きず</rt></ruby>いたもの。つつみ。<ruby><rb>土手</rb><rt>どて</rt></ruby>。",
+          "hyouki": [
+            "堤防"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。",
+          "hyouki": [
+            "熱中症"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>が<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>を<ruby><rb>流</rb><rt>なが</rt></ruby>れ、<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>光</rb><rt>ひかり</rt></ruby>と、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。",
+          "hyouki": [
+            "雷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>腹</rb><rt>はら</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>ててどなりつけること。",
+          "hyouki": [
+            "雷"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}

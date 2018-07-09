@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011524021000",
+  "news_prearranged_time": "2018-07-09 17:05:00",
+  "title": "たくさんの雨で１００人以上が亡くなる　これからも気をつけて",
+  "title_with_ruby": "たくさんの<ruby>雨<rt>あめ</rt></ruby>で１００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる　これからも<ruby>気<rt>き</rt></ruby>をつけて",
+  "outline_with_ruby": "<p><ruby>５日<rt>いつか</rt></ruby>から<ruby>８日<rt>ようか</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>九州<rt>きゅうしゅう</rt></ruby></a>から<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>東海地方<rt>とうかいちほう</rt></ruby></a>までのいろいろな<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180709/../20180709/K10011524021_1807090909_1807090911_01_03.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011524021000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011524021000/k10011524021000.html"
+}
