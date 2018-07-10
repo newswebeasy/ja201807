@@ -1,0 +1,188 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交流"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。",
+          "hyouki": [
+            "交流"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>も<ruby><rb>着</rb><rt>き</rt></ruby>ていない<ruby><rb>体</rb><rt>からだ</rt></ruby>。",
+          "hyouki": [
+            "裸"
+          ]
+        },
+        {
+          "def": "おおうものがないこと。",
+          "hyouki": [
+            "裸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>などの<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>物</rb><rt>もの</rt></ruby>がないこと。",
+          "hyouki": [
+            "裸"
+          ]
+        },
+        {
+          "def": "かくしだてしないこと。",
+          "hyouki": [
+            "裸"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。",
+          "hyouki": [
+            "犯罪"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。",
+          "hyouki": [
+            "自殺"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとをいっしょにするときのもう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>ったりするときの、もう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>側</rb><rt>がわ</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。",
+          "hyouki": [
+            "まとめる"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}

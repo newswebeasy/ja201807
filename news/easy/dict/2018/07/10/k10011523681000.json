@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>乗</rb><rt>の</rt></ruby>るように<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "乗用車"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "ものごとを、はかどらせる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。",
+          "hyouki": [
+            "進める"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>との<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>引</rb><rt>ひ</rt></ruby>きや、<ruby><rb>商業</rb><rt>しょうぎょう</rt></ruby>・<ruby><rb>工業</rb><rt>こうぎょう</rt></ruby>などの<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>をさかんにするための<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>経産省</rb><rt>けいさんしょう</rt></ruby>。",
+          "hyouki": [
+            "経済産業省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "いちばん<ruby><rb>軽</rb><rt>かる</rt></ruby>くて、<ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい。",
+          "hyouki": [
+            "水素"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>空気</rb><rt>くうき</rt></ruby>や<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれていて、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>はこれを<ruby><rb>吸</rb><rt>す</rt></ruby>って<ruby><rb>生</rb><rt>い</rt></ruby>きている。また、<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるには、<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>が<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>である。",
+          "hyouki": [
+            "酸素"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などのはたらきで、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きるようにしてある<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。",
+          "hyouki": [
+            "電池"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>・ガソリンなどで、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電動機</rb><rt>でんどうき</rt></ruby>。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。",
+          "hyouki": [
+            "モーター"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "モーター"
+          ]
+        }
+      ]
+    }
+  }
+}
