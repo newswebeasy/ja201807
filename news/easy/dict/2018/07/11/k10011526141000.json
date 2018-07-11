@@ -1,0 +1,178 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>水</rb><rt>みず</rt></ruby>。<ruby><rb>川</rb><rt>かわ</rt></ruby>。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>川</rb><rt>かわ</rt></ruby>のように）<ruby><rb>絶</rb><rt>た</rt></ruby>えることなく<ruby><rb>動</rb><rt>うご</rt></ruby>いているもの。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>系統</rb><rt>けいとう</rt></ruby>。つながり。<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "とりやめになること。",
+          "hyouki": [
+            "流れ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。",
+          "hyouki": [
+            "九州地方"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>本州中央部</rb><rt>ほんしゅうちゅうおうぶ</rt></ruby>の<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>静岡</rb><rt>しずおか</rt></ruby>・<ruby><rb>愛知</rb><rt>あいち</rt></ruby>・<ruby><rb>三重</rb><rt>みえ</rt></ruby>の<ruby><rb>三県</rb><rt>さんけん</rt></ruby>と<ruby><rb>岐阜県</rb><rt>ぎふけん</rt></ruby>の<ruby><rb>南部</rb><rt>なんぶ</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。",
+          "hyouki": [
+            "東海地方"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>まる。<ruby><rb>増</rb><rt>ふ</rt></ruby>える。",
+          "hyouki": [
+            "たまる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>後</rb><rt>あと</rt></ruby>まで<ruby><rb>残</rb><rt>のこ</rt></ruby>る。",
+          "hyouki": [
+            "たまる"
+          ]
+        }
+      ]
+    }
+  }
+}
