@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>やがけにあいた、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>深</rb><rt>ふか</rt></ruby>い<ruby><rb>穴</rb><rt>あな</rt></ruby>。どうくつ。",
+          "hyouki": [
+            "洞穴"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ダイビングをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ダイバー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>から<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>りこんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "奥"
+          ]
+        },
+        {
+          "def": "ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にはわからないこと。",
+          "hyouki": [
+            "奥"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>気体</rb><rt>きたい</rt></ruby>をおし<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>めて<ruby><rb>入</rb><rt>い</rt></ruby>れてある、<ruby><rb>鋼鉄</rb><rt>こうてつ</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った、<ruby><rb>筒形</rb><rt>つつがた</rt></ruby>の<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ボンベ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ]
+    }
+  }
+}
