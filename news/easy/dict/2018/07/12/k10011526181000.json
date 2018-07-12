@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。",
+          "hyouki": [
+            "秋刀魚"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。",
+          "hyouki": [
+            "漁"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。",
+          "hyouki": [
+            "隻"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "隻"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。",
+          "hyouki": [
+            "市場"
+          ]
+        },
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。",
+          "hyouki": [
+            "市場"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ]
+    }
+  }
+}

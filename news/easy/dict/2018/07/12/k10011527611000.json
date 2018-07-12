@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを、だいじにするようす。",
+          "hyouki": [
+            "民主的"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。",
+          "hyouki": [
+            "ノーベル賞"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "行動"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。",
+          "hyouki": [
+            "許す"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。",
+          "hyouki": [
+            "治す"
+          ]
+        }
+      ]
+    }
+  }
+}
