@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011528251000",
+  "news_prearranged_time": "2018-07-13 11:30:00",
+  "title": "コンピューターで社員をチェックする技術を紹介",
+  "title_with_ruby": "コンピューターで<ruby>社員<rt>しゃいん</rt></ruby>をチェックする<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>",
+  "outline_with_ruby": "<p>コンピューターのＡＩを<ruby>使<rt>つか</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>社員<rt>しゃいん</rt></ruby></a>をチェックする<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>が<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180711/../20180711/K10011528251_1807111503_1807111507_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011528251000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011528251000/k10011528251000.html"
+}

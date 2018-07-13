@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011529381000",
+  "news_prearranged_time": "2018-07-13 16:00:00",
+  "title": "東京オリンピックの聖火リレー　福島県からスタート",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<ruby>聖火<rt>せいか</rt></ruby>リレー　<ruby>福島県<rt>ふくしまけん</rt></ruby>からスタート",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>聖火<rt>せいか</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'>リレー</a>は、２０２０<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>に<ruby>福島県<rt>ふくしまけん</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0002'>スタート</a>して、４７の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>都道府県<rt>とどうふけん</rt></ruby></a>を１２１<ruby>日<rt>にち</rt></ruby>で<ruby>回<rt>まわ</rt></ruby>ることが<ruby>決<rt>き</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180712/../20180712/K10011529381_1807121400_1807121400_01_03.jpg",
+  "news_web_movie_uri": "k10011529381_201807121016_201807121017.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011529381000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011529381000/k10011529381000.html"
+}

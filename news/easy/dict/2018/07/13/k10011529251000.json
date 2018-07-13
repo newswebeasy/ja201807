@@ -1,0 +1,36 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>やぬまにすむ、ぬるぬるした<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>で<ruby><rb>卵</rb><rt>たまご</rt></ruby>からかえり、<ruby><rb>川</rb><rt>かわ</rt></ruby>に<ruby><rb>上</rb><rt>のぼ</rt></ruby>ってくる。かば<ruby><rb>焼</rb><rt>や</rt></ruby>きなどにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "鰻"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>などを、<ruby><rb>人工的</rb><rt>じんこうてき</rt></ruby>に<ruby><rb>育</rb><rt>そだ</rt></ruby>てふやすこと。",
+          "hyouki": [
+            "養殖"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ]
+    }
+  }
+}

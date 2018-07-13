@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "寄付"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ある<ruby><rb>目的</rb><rt>もくてき</rt></ruby>のために、<ruby><rb>会員</rb><rt>かいいん</rt></ruby>が<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>運営</rb><rt>うんえい</rt></ruby>している<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "協会"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "「たがい」を、ていねいに<ruby><rb>言</rb><rt>い</rt></ruby>うことば。めいめい。<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>。",
+          "hyouki": [
+            "お互い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>が<ruby><rb>同</rb><rt>おな</rt></ruby>じようすであること。",
+          "hyouki": [
+            "お互い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>がそれぞれに。",
+          "hyouki": [
+            "お互い"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ]
+    }
+  }
+}
