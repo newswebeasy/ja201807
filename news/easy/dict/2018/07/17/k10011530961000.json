@@ -1,0 +1,136 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交流"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。",
+          "hyouki": [
+            "交流"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>など、<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>として<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>美術作品</rb><rt>びじゅつさくひん</rt></ruby>。",
+          "hyouki": [
+            "美術品"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>にさかんになった、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>劇</rb><rt>げき</rt></ruby>。<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>だけで<ruby><rb>演</rb><rt>えん</rt></ruby>じる。",
+          "hyouki": [
+            "歌舞伎"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>歌</rb><rt>うた</rt></ruby>やおどりや<ruby><rb>劇</rb><rt>げき</rt></ruby>などをすること。",
+          "hyouki": [
+            "公演"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めること。",
+          "hyouki": [
+            "開会"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>から<ruby><rb>他方</rb><rt>たほう</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>くようにする。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうに<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>通</rb><rt>とお</rt></ruby>らせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりまでつらぬきとおす。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>導</rb><rt>みちび</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仲立</rb><rt>なかだ</rt></ruby>ちにする。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "ひととおり<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "くぐらせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>認</rb><rt>みと</rt></ruby>める。<ruby><rb>認</rb><rt>みと</rt></ruby>めさせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりまでし<ruby><rb>続</rb><rt>つづ</rt></ruby>ける。",
+          "hyouki": [
+            "通す"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ]
+    }
+  }
+}

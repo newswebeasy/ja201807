@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011530961000",
+  "news_prearranged_time": "2018-07-17 11:30:00",
+  "title": "フランスで日本文化を紹介するイベントが始まる",
+  "title_with_ruby": "フランスで<ruby>日本<rt>にっぽん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントが<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>とフランスが<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>交流<rt>こうりゅう</rt></ruby></a>を<ruby>始<rt>はじ</rt></ruby>めてから１６０<ruby>年<rt>ねん</rt></ruby>になります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180713/../20180713/K10011530961_1807130651_1807130651_01_03.jpg",
+  "news_web_movie_uri": "k10011530961_201807130651_201807130651.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011530961000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011530961000/k10011530961000.html"
+}

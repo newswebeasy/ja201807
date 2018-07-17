@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011535981000",
+  "news_prearranged_time": "2018-07-17 15:15:00",
+  "title": "とても暑い日が１週間ぐらい続くので熱中症に気をつけて",
+  "title_with_ruby": "とても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が１<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>続<rt>つづ</rt></ruby>くので<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>九州<rt>きゅうしゅう</rt></ruby></a>から<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>関東地方<rt>かんとうちほう</rt></ruby></a>では、とても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180717/../20180717/K10011535981_1807170925_1807170926_01_03.jpg",
+  "news_web_movie_uri": "k10011535981_201807170925_201807170926.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011535981000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011535981000/k10011535981000.html"
+}

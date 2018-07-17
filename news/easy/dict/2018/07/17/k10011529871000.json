@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。",
+          "hyouki": [
+            "田んぼ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        },
+        {
+          "def": "まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>実</rb><rt>み</rt></ruby>を<ruby><rb>米</rb><rt>こめ</rt></ruby>として<ruby><rb>食</rb><rt>た</rt></ruby>べる<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>田</rb><rt>た</rt></ruby>に<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>水稲</rb><rt>すいとう</rt></ruby>と、<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>陸稲</rb><rt>りくとう</rt></ruby>がある。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>茎</rb><rt>くき</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>稲穂</rb><rt>いなほ</rt></ruby>が<ruby><rb>実</rb><rt>みの</rt></ruby>る。",
+          "hyouki": [
+            "稲"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>周囲</rb><rt>しゅうい</rt></ruby>をよく<ruby><rb>見</rb><rt>み</rt></ruby>わたすことのできる<ruby><rb>高台</rb><rt>たかだい</rt></ruby>。<ruby><rb>見晴</rb><rt>みは</rt></ruby>らし<ruby><rb>台</rb><rt>だい</rt></ruby>。",
+          "hyouki": [
+            "展望台"
+          ]
+        }
+      ]
+    }
+  }
+}

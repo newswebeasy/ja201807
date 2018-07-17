@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011529871000",
+  "news_prearranged_time": "2018-07-17 11:30:00",
+  "title": "青森県　田んぼに漫画のキャラクターの大きな絵を作る",
+  "title_with_ruby": "<ruby>青森県<rt>あおもりけん</rt></ruby>　<ruby>田<rt>た</rt></ruby>んぼに<ruby>漫画<rt>まんが</rt></ruby>のキャラクターの<ruby>大<rt>おお</rt></ruby>きな<ruby>絵<rt>え</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る",
+  "outline_with_ruby": "<p><ruby>青森県<rt>あおもりけん</rt></ruby><ruby>田舎館村<rt>いなかだてむら</rt></ruby>は、たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>てもらいたいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>毎年<rt>まいとし</rt></ruby>「<ruby>田<rt>た</rt></ruby>んぼアート」を<ruby>作<rt>つく</rt></ruby>っています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180712/../20180712/K10011529871_1807121425_1807121427_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011529871000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011529871000/k10011529871000.html"
+}
