@@ -1,0 +1,214 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>、クヌギなどの<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>樹液</rb><rt>じゅえき</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>黒茶色</rb><rt>くろちゃいろ</rt></ruby>でつやがある。<ruby><rb>雄</rb><rt>おす</rt></ruby>には<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>角</rb><rt>つの</rt></ruby>がある。",
+          "hyouki": [
+            "かぶとむし"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>丸</rb><rt>まる</rt></ruby>い<ruby><rb>天井</rb><rt>てんじょう</rt></ruby>。<ruby><rb>丸</rb><rt>まる</rt></ruby>い<ruby><rb>屋根</rb><rt>やね</rt></ruby>。",
+          "hyouki": [
+            "ドーム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>網</rb><rt>あみ</rt></ruby>。",
+          "hyouki": [
+            "ネット"
+          ]
+        },
+        {
+          "def": "テニス・バレーボール・バドミントン・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などで、コートの<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>にしきってある<ruby><rb>網</rb><rt>あみ</rt></ruby>。",
+          "hyouki": [
+            "ネット"
+          ]
+        },
+        {
+          "def": "「ネットワーク」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ネット"
+          ]
+        },
+        {
+          "def": "「インターネット」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ネット"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>っぱりわたす。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "のび<ruby><rb>広</rb><rt>ひろ</rt></ruby>がる。のばし<ruby><rb>広</rb><rt>ひろ</rt></ruby>げる。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一面</rb><rt>いちめん</rt></ruby>におおう。いっぱいにする。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "つき<ruby><rb>出</rb><rt>で</rt></ruby>る。つき<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "ふくれる。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>する。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "おし<ruby><rb>通</rb><rt>とお</rt></ruby>す。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くなる。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>設</rb><rt>もう</rt></ruby>ける。<ruby><rb>構</rb><rt>かま</rt></ruby>える。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>た<ruby><rb>目</rb><rt>め</rt></ruby>をよくする。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "さかんにする。",
+          "hyouki": [
+            "張る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>のひらでたたく。",
+          "hyouki": [
+            "張る"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。",
+          "hyouki": [
+            "雄"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>頭</rb><rt>あたま</rt></ruby>につき<ruby><rb>出</rb><rt>で</rt></ruby>ているかたいとがったもの。",
+          "hyouki": [
+            "角"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>投</rb><rt>な</rt></ruby>げて<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "ぶつける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "ぶつける"
+          ]
+        },
+        {
+          "def": "ことばや<ruby><rb>態度</rb><rt>たいど</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>表</rb><rt>あらわ</rt></ruby>して<ruby><rb>言</rb><rt>い</rt></ruby>う。",
+          "hyouki": [
+            "ぶつける"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ]
+    }
+  }
+}
