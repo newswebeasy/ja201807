@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。",
+          "hyouki": [
+            "熱中症"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などをつかまえる。",
+          "hyouki": [
+            "捕る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>気象</rb><rt>きしょう</rt></ruby>や<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>観測</rb><rt>かんそく</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>天気予報</rb><rt>てんきよほう</rt></ruby>の<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>もする。",
+          "hyouki": [
+            "気象台"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "くやしく<ruby><rb>思</rb><rt>おも</rt></ruby>う。<ruby><rb>残念</rb><rt>ざんねん</rt></ruby>がる。<ruby><rb>後悔</rb><rt>こうかい</rt></ruby>する。",
+          "hyouki": [
+            "悔やむ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>死</rb><rt>し</rt></ruby>をおしんで、なぐさめる。",
+          "hyouki": [
+            "悔やむ"
+          ]
+        }
+      ]
+    }
+  }
+}
