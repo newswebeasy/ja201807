@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>二枚</rb><rt>にまい</rt></ruby>の<ruby><rb>厚手</rb><rt>あつで</rt></ruby>のボール<ruby><rb>紙</rb><rt>がみ</rt></ruby>の<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>に、<ruby><rb>波形</rb><rt>なみがた</rt></ruby>の<ruby><rb>紙</rb><rt>かみ</rt></ruby>をはり<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。",
+          "hyouki": [
+            "段ボール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。",
+          "hyouki": [
+            "床"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>広</rb><rt>ひろ</rt></ruby>げる。",
+          "hyouki": [
+            "敷く"
+          ]
+        },
+        {
+          "def": "ものの<ruby><rb>下</rb><rt>した</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。<ruby><rb>敷物</rb><rt>しきもの</rt></ruby>にする。",
+          "hyouki": [
+            "敷く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>備</rb><rt>そな</rt></ruby>えつける。",
+          "hyouki": [
+            "敷く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。",
+          "hyouki": [
+            "敷く"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かなちり。",
+          "hyouki": [
+            "ほこり"
+          ]
+        }
+      ]
+    }
+  }
+}
