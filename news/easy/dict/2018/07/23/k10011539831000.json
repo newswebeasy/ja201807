@@ -1,0 +1,182 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "イメージ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "もち<ruby><rb>米</rb><rt>ごめ</rt></ruby>をむして、ついた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "餅"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アズキなどを<ruby><rb>煮</rb><rt>に</rt></ruby>て、<ruby><rb>砂糖</rb><rt>さとう</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>練</rb><rt>ね</rt></ruby>ったもの。あんこ。",
+          "hyouki": [
+            "餡"
+          ]
+        },
+        {
+          "def": "まんじゅうなどの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れるもの。",
+          "hyouki": [
+            "餡"
+          ]
+        },
+        {
+          "def": "くず<ruby><rb>粉</rb><rt>こ</rt></ruby>などで、とろみを<ruby><rb>出</rb><rt>だ</rt></ruby>したもの。",
+          "hyouki": [
+            "餡"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "くじ<ruby><rb>引</rb><rt>び</rt></ruby>き。",
+          "hyouki": [
+            "抽選"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ぶつかる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ねらったとおりうまくいく。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。",
+          "hyouki": [
+            "当たる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ぶつかる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ねらったとおりうまくいく。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。",
+          "hyouki": [
+            "当たる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ]
+    }
+  }
+}

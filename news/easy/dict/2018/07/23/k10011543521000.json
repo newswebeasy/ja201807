@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "お<ruby><rb>盆</rb><rt>ぼん</rt></ruby>（うら<ruby><rb>盆</rb><rt>ぼん</rt></ruby>）に、<ruby><rb>野外</rb><rt>やがい</rt></ruby>で<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>踊</rb><rt>おど</rt></ruby>る<ruby><rb>踊</rb><rt>おど</rt></ruby>り。<ruby><rb>輪</rb><rt>わ</rt></ruby>になって<ruby><rb>踊</rb><rt>おど</rt></ruby>るところが<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "盆踊り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仏教</rb><rt>ぶっきょう</rt></ruby>で、<ruby><rb>旧暦</rb><rt>きゅうれき</rt></ruby>の<ruby><rb>七月十五日</rb><rt>しちがつじゅうごにち</rt></ruby>にする、<ruby><rb>先祖</rb><rt>せんぞ</rt></ruby>の<ruby><rb>霊</rb><rt>れい</rt></ruby>をまつる<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。おぼん。ぼん。",
+          "hyouki": [
+            "うら盆"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。",
+          "hyouki": [
+            "イスラム教"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "信じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。",
+          "hyouki": [
+            "信じる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "えりもとをかざったり、<ruby><rb>頭</rb><rt>あたま</rt></ruby>にかぶったりする<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "スカーフ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "もめんで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ひとえの<ruby><rb>着物</rb><rt>きもの</rt></ruby>。<ruby><rb>湯上</rb><rt>ゆあ</rt></ruby>がりや、<ruby><rb>夏</rb><rt>なつ</rt></ruby>などに<ruby><rb>着</rb><rt>き</rt></ruby>る。",
+          "hyouki": [
+            "浴衣"
+          ]
+        }
+      ]
+    }
+  }
+}
