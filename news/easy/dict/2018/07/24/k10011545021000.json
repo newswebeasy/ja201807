@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>実</rb><rt>み</rt></ruby>が、<ruby><rb>地面</rb><rt>じめん</rt></ruby>をはうつるにでき、<ruby><rb>中身</rb><rt>なかみ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>や<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>で<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>くあまい。",
+          "hyouki": [
+            "西瓜"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>などにすみ、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>食</rb><rt>く</rt></ruby>いあらす<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。ノネズミ・イエネズミ・ハツカネズミなどがいる。",
+          "hyouki": [
+            "鼠"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。",
+          "hyouki": [
+            "仲間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。",
+          "hyouki": [
+            "仲間"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られる<ruby><rb>果物</rb><rt>くだもの</rt></ruby>。あまずっぱくて、かおりがよい。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>実</rb><rt>みの</rt></ruby>る。",
+          "hyouki": [
+            "りんご"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。",
+          "hyouki": [
+            "競技"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "キャンプや<ruby><rb>運動会</rb><rt>うんどうかい</rt></ruby>などで、<ruby><rb>小屋</rb><rt>こや</rt></ruby>のような<ruby><rb>形</rb><rt>かたち</rt></ruby>に<ruby><rb>張</rb><rt>は</rt></ruby>る<ruby><rb>幕</rb><rt>まく</rt></ruby>。<ruby><rb>天幕</rb><rt>てんまく</rt></ruby>。",
+          "hyouki": [
+            "テント"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "４２．１９５キロメートルを<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>、ギリシャの<ruby><rb>兵士</rb><rt>へいし</rt></ruby>が、<ruby><rb>戦場</rb><rt>せんじょう</rt></ruby>のマラトンから、<ruby><rb>勝利</rb><rt>しょうり</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、アテネまで<ruby><rb>走</rb><rt>はし</rt></ruby>ったことから<ruby><rb>始</rb><rt>はじ</rt></ruby>まった。",
+          "hyouki": [
+            "マラソン"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>進</rb><rt>すす</rt></ruby>んで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>進路</rb><rt>しんろ</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、そこを<ruby><rb>通</rb><rt>とお</rt></ruby>るように<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>の<ruby><rb>内容</rb><rt>ないよう</rt></ruby>や<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。<ruby><rb>課程</rb><rt>かてい</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        }
+      ]
+    }
+  }
+}

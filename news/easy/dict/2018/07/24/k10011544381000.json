@@ -1,0 +1,132 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>の<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>実</rb><rt>み</rt></ruby>がなる。つけ<ruby><rb>物</rb><rt>もの</rt></ruby>やサラダにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "胡瓜"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>に<ruby><rb>仕</rb><rt>つか</rt></ruby>える<ruby><rb>人</rb><rt>ひと</rt></ruby>。「<ruby><rb>僧侶</rb><rt>そうりょ</rt></ruby>」を<ruby><rb>親</rb><rt>した</rt></ruby>しみ<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "坊さん"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いた、<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>板</rb><rt>いた</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>や<ruby><rb>寺</rb><rt>てら</rt></ruby>で<ruby><rb>出</rb><rt>だ</rt></ruby>すお<ruby><rb>守</rb><rt>まも</rt></ruby>り。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "かるたやトランプなどのカード。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011544381000/k10011544381000.html",
+      "title": "京都市のお寺できゅうりを使って健康を祈る行事を行う",
+      "time": "NEWSWEB EASY 7月24日",
+      "datetime": "2018-07-24"
+    }
+  ],
   "word": [],
   "news_id": "k10011544381000",
   "yyyy": "2018",

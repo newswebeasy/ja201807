@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011545701000",
+  "news_prearranged_time": "2018-07-24 16:20:00",
+  "title": "東京オリンピックまであと２年　道が混むことや暑さが心配",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックまであと２<ruby>年<rt>ねん</rt></ruby>　<ruby>道<rt>みち</rt></ruby>が<ruby>混<rt>こ</rt></ruby>むことや<ruby>暑<rt>あつ</rt></ruby>さが<ruby>心配<rt>しんぱい</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>オリンピックが<ruby>始<rt>はじ</rt></ruby>まるまで、あと２<ruby>年<rt>ねん</rt></ruby>になりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180724/../20180724/K10011545701_1807240516_1807240519_01_03.jpg",
+  "news_web_movie_uri": "k10011545701_201807240516_201807240518.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011545701000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011545701000/k10011545701000.html"
+}

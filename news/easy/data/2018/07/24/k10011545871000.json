@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011545871000",
+  "news_prearranged_time": "2018-07-24 16:20:00",
+  "title": "とても暑い日が世界の国で続いている",
+  "title_with_ruby": "とても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で<ruby>続<rt>つづ</rt></ruby>いている",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>ではとても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていますが、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>でも<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180724/../20180724/K10011545871_1807241042_1807241043_01_03.jpg",
+  "news_web_movie_uri": "k10011545871_201807241042_201807241043.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011545871000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011545871000/k10011545871000.html"
+}
