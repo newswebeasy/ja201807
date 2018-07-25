@@ -18,7 +18,26 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "//www3.nhk.or.jp/news/business_tokushu/2018_0508.html",
+      "title": "バーガー戦国時代 本場から進出続々",
+      "time": "ビジネス特集 5月8日",
+      "datetime": "2018-05-08"
+    },
+    {
+      "link": "//www3.nhk.or.jp/news/special/sakusakukeizai/articles/20180214.html",
+      "title": "マクドナルド ロイヤルホスト 教えて回復のヒミツ",
+      "time": "サクサク経済Ｑ＆Ａ 2月14日",
+      "datetime": "2018-02-14"
+    },
+    {
+      "link": "http://www9.nhk.or.jp/nw9/digest/2018/02/0213.html",
+      "title": "低価格路線 転換で…",
+      "time": "ニュースウオッチ９ 2月13日",
+      "datetime": "2018-02-13"
+    }
+  ],
   "word": [],
   "news_id": "k10011546941000",
   "yyyy": "2018",
