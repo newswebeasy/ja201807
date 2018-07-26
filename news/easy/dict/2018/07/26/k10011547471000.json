@@ -1,0 +1,160 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>やがけにあいた、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>深</rb><rt>ふか</rt></ruby>い<ruby><rb>穴</rb><rt>あな</rt></ruby>。どうくつ。",
+          "hyouki": [
+            "洞穴"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "お<ruby><rb>坊</rb><rt>ぼう</rt></ruby>さんになること。",
+          "hyouki": [
+            "出家"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>坊</rb><rt>ぼう</rt></ruby>さんのこと。",
+          "hyouki": [
+            "出家"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ダイビングをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ダイバー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "かみそりで、かみの<ruby><rb>毛</rb><rt>け</rt></ruby>やひげを<ruby><rb>根</rb><rt>ね</rt></ruby>もとから<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "そる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あいだ。へだたり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ひろがり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。",
+          "hyouki": [
+            "間"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>に<ruby><rb>仕</rb><rt>つか</rt></ruby>える<ruby><rb>人</rb><rt>ひと</rt></ruby>。「<ruby><rb>僧侶</rb><rt>そうりょ</rt></ruby>」を<ruby><rb>親</rb><rt>した</rt></ruby>しみ<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "坊さん"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>仏教</rb><rt>ぶっきょう</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>教</rb><rt>おし</rt></ruby>えを<ruby><rb>学</rb><rt>まな</rt></ruby>び、よい<ruby><rb>行</rb><rt>おこな</rt></ruby>いをするよう、<ruby><rb>努</rb><rt>つと</rt></ruby>めること。",
+          "hyouki": [
+            "修行"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけるように、<ruby><rb>努</rb><rt>つと</rt></ruby>めること。",
+          "hyouki": [
+            "修行"
+          ]
+        }
+      ]
+    }
+  }
+}
