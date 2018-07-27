@@ -1,0 +1,166 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いことをした<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つ、<ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>罰</rb><rt>ばつ</rt></ruby>。",
+          "hyouki": [
+            "死刑"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>起</rb><rt>お</rt></ruby>こり。<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>原因</rb><rt>げんいん</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        },
+        {
+          "def": "<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元手</rb><rt>もとで</rt></ruby>。<ruby><rb>資本</rb><rt>しほん</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>。<ruby><rb>以前</rb><rt>いぜん</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。みんな。",
+          "hyouki": [
+            "全員"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>などで、<ruby><rb>事件</rb><rt>じけん</rt></ruby>に<ruby><rb>関係</rb><rt>かんけい</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>の、<ruby><rb>権利</rb><rt>けんり</rt></ruby>や<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>本人</rb><rt>ほんにん</rt></ruby>の<ruby><rb>代理</rb><rt>だいり</rt></ruby>や<ruby><rb>弁護</rb><rt>べんご</rt></ruby>をする<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "弁護士"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。",
+          "hyouki": [
+            "毒"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "まく"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>が<ruby><rb>苦</rb><rt>くる</rt></ruby>しく<ruby><rb>感</rb><rt>かん</rt></ruby>じる。つらいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "苦しむ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>苦労</rb><rt>くろう</rt></ruby>する。",
+          "hyouki": [
+            "苦しむ"
+          ]
+        }
+      ]
+    }
+  }
+}

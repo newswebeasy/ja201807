@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011550311000",
+  "news_prearranged_time": "2018-07-27 17:00:00",
+  "title": "東京都多摩市　つくっているビルの火事で５人が亡くなる",
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>多摩市<rt>たまし</rt></ruby>　つくっているビルの<ruby>火事<rt>かじ</rt></ruby>で５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>多摩市<rt>たまし</rt></ruby>で２６<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>２<ruby>時<rt>じ</rt></ruby>ごろ、つくっているビルが<ruby>火事<rt>かじ</rt></ruby>になって、５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180726/../20180726/K10011550311_1807261710_1807261730_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011550311000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011550311000/k10011550311000.html"
+}

@@ -1,0 +1,202 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>四番</rb><rt>よばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>見</rb><rt>み</rt></ruby>え、<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>が<ruby><rb>二</rb><rt>ふた</rt></ruby>つある。",
+          "hyouki": [
+            "火星"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>探</rb><rt>さが</rt></ruby>して<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "探査"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "とき。きっかけ。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "はたらき。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "機"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>にある<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>位置</rb><rt>いち</rt></ruby>や<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>をさぐる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>電波探知機</rb><rt>でんぱたんちき</rt></ruby>。",
+          "hyouki": [
+            "レーダー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>南</rb><rt>みなみ</rt></ruby>のはし。",
+          "hyouki": [
+            "南極"
+          ]
+        },
+        {
+          "def": "<ruby><rb>南極大陸</rb><rt>なんきょくたいりく</rt></ruby>。",
+          "hyouki": [
+            "南極"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>〇度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をおしつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>、<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>水圧</rb><rt>すいあつ</rt></ruby>という。",
+          "hyouki": [
+            "圧力"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>くはたらきかけること。",
+          "hyouki": [
+            "圧力"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>や<ruby><rb>気体</rb><rt>きたい</rt></ruby>のこい、うすいの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。",
+          "hyouki": [
+            "濃度"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>残</rb><rt>のこ</rt></ruby>ったしるし。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>何</rb><rt>なに</rt></ruby>かがあった<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "ゆくえ。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "<ruby><rb>親</rb><rt>おや</rt></ruby>などが、<ruby><rb>残</rb><rt>のこ</rt></ruby>したもの。",
+          "hyouki": [
+            "跡"
+          ]
+        }
+      ]
+    }
+  }
+}
