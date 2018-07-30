@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけて、いくさで<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。さむらい。",
+          "hyouki": [
+            "武士"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>。かっこう。",
+          "hyouki": [
+            "姿"
+          ]
+        },
+        {
+          "def": "<ruby><rb>身</rb><rt>み</rt></ruby>なり。<ruby><rb>服装</rb><rt>ふくそう</rt></ruby>。",
+          "hyouki": [
+            "姿"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>。",
+          "hyouki": [
+            "姿"
+          ]
+        },
+        {
+          "def": "ようす。ありさま。",
+          "hyouki": [
+            "姿"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家畜</rb><rt>かちく</rt></ruby>として<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われる<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>力</rb><rt>ちから</rt></ruby>が<ruby><rb>強</rb><rt>つよ</rt></ruby>く、<ruby><rb>走</rb><rt>はし</rt></ruby>るのがはやい。<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運搬</rb><rt>うんぱん</rt></ruby>や<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>、<ruby><rb>競馬</rb><rt>けいば</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "馬"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>をまつる<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>や<ruby><rb>儀式</rb><rt>ぎしき</rt></ruby>。<ruby><rb>供</rb><rt>そな</rt></ruby>え<ruby><rb>物</rb><rt>もの</rt></ruby>をし、<ruby><rb>笛</rb><rt>ふえ</rt></ruby>をふいたり<ruby><rb>太鼓</rb><rt>たいこ</rt></ruby>を<ruby><rb>鳴</rb><rt>な</rt></ruby>らしたり、おみこしをかついだりする。<ruby><rb>祭礼</rb><rt>さいれい</rt></ruby>。",
+          "hyouki": [
+            "祭り"
+          ]
+        },
+        {
+          "def": "にぎやかに<ruby><rb>行</rb><rt>おこな</rt></ruby>う、もよおし。",
+          "hyouki": [
+            "祭り"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。",
+          "hyouki": [
+            "原子力"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ]
+    }
+  }
+}

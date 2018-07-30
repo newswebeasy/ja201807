@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011550321000",
+  "news_prearranged_time": "2018-07-30 11:30:00",
+  "title": "暑いドイツでビールが売れて瓶が足りなくなっている",
+  "title_with_ruby": "<ruby>暑<rt>あつ</rt></ruby>いドイツでビールが<ruby>売<rt>う</rt></ruby>れて<ruby>瓶<rt>びん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっている",
+  "outline_with_ruby": "<p>ドイツでは<ruby>厳<rt>きび</rt></ruby>しい<ruby>暑<rt>あつ</rt></ruby>さが<ruby>続<rt>つづ</rt></ruby>いていて、<ruby>山<rt>やま</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>になったり、<ruby>雨<rt>あめ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>畑<rt>はたけ</rt></ruby></a>に<ruby>水<rt>みず</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなったりしています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180726/../20180726/K10011550321_1807261808_1807261811_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011550321000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011550321000/k10011550321000.html"
+}

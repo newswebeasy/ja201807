@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。",
+          "hyouki": [
+            "飼う"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "農家"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>野山</rb><rt>のやま</rt></ruby>にすみ、<ruby><rb>鋭</rb><rt>するど</rt></ruby>いきばを<ruby><rb>持</rb><rt>も</rt></ruby>つけもの。ブタの<ruby><rb>祖先</rb><rt>そせん</rt></ruby>といわれるが、<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>はあらく<ruby><rb>一直線</rb><rt>いっちょくせん</rt></ruby>に<ruby><rb>走</rb><rt>はし</rt></ruby>るのが<ruby><rb>速</rb><rt>はや</rt></ruby>い。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>黒茶色</rb><rt>くろちゃいろ</rt></ruby>のあらい<ruby><rb>毛</rb><rt>け</rt></ruby>におおわれている。",
+          "hyouki": [
+            "猪"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>などを<ruby><rb>立</rb><rt>た</rt></ruby>て、<ruby><rb>横木</rb><rt>よこぎ</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ちつけて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>囲</rb><rt>かこ</rt></ruby>い。",
+          "hyouki": [
+            "柵"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>過</rb><rt>す</rt></ruby>ぎる。",
+          "hyouki": [
+            "越える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>境目</rb><rt>さかいめ</rt></ruby>を<ruby><rb>過</rb><rt>す</rt></ruby>ぎる。",
+          "hyouki": [
+            "越える"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>日時</rb><rt>にちじ</rt></ruby>を<ruby><rb>過</rb><rt>す</rt></ruby>ぎる。",
+          "hyouki": [
+            "越える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>をとびこす。",
+          "hyouki": [
+            "越える"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。",
+          "hyouki": [
+            "田んぼ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>指</rb><rt>ゆび</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>にあり、<ruby><rb>皮</rb><rt>かわ</rt></ruby>がかたく<ruby><rb>変</rb><rt>か</rt></ruby>わったもの。",
+          "hyouki": [
+            "爪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>琴</rb><rt>こと</rt></ruby>などをひくときに、<ruby><rb>指先</rb><rt>ゆびさき</rt></ruby>にはめるもの。",
+          "hyouki": [
+            "爪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>っかけてとめるための、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなもの。",
+          "hyouki": [
+            "爪"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011555611000",
+  "news_prearranged_time": "2018-07-30 17:35:00",
+  "title": "ガソリンの値段は８月も高いままになりそう",
+  "title_with_ruby": "ガソリンの<ruby>値段<rt>ねだん</rt></ruby>は８<ruby>月<rt>がつ</rt></ruby>も<ruby>高<rt>たか</rt></ruby>いままになりそう",
+  "outline_with_ruby": "<p>ガソリンスタンドで<ruby>売<rt>う</rt></ruby>っているガソリンの<ruby>値段<rt>ねだん</rt></ruby>が、５<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから<ruby>高<rt>たか</rt></ruby>くなっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180730/../20180730/K10011555611_1807300443_1807300445_01_03.jpg",
+  "news_web_movie_uri": "k10011555611_201807300443_201807300444.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011555611000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011555611000/k10011555611000.html"
+}

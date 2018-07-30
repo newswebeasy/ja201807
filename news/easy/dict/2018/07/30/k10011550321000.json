@@ -1,0 +1,162 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。",
+          "hyouki": [
+            "ビール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "瓶"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        },
+        {
+          "def": "<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>飛行場</rb><rt>ひこうじょう</rt></ruby>で、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>が<ruby><rb>離着陸</rb><rt>りちゃくりく</rt></ruby>するときに<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "滑走路"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>。<ruby><rb>表</rb><rt>おもて</rt></ruby>。",
+          "hyouki": [
+            "表面"
+          ]
+        },
+        {
+          "def": "うわべ。<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "表面"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "しぜんにめくれて<ruby><rb>取</rb><rt>と</rt></ruby>れる。",
+          "hyouki": [
+            "剝がれる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ケース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>場合</rb><rt>ばあい</rt></ruby>。できごと。",
+          "hyouki": [
+            "ケース"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "いらなくなった<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>使</rb><rt>つか</rt></ruby>えなくなった<ruby><rb>物</rb><rt>もの</rt></ruby>を、もう<ruby><rb>一度利用</rb><rt>いちどりよう</rt></ruby>できるようにすること。",
+          "hyouki": [
+            "リサイクル"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "もとに<ruby><rb>返</rb><rt>かえ</rt></ruby>す。",
+          "hyouki": [
+            "戻す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のものをはく。",
+          "hyouki": [
+            "戻す"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "もとの<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>主</rb><rt>ぬし</rt></ruby>にもどる。",
+          "hyouki": [
+            "返る"
+          ]
+        },
+        {
+          "def": "もとのようすになる。",
+          "hyouki": [
+            "返る"
+          ]
+        },
+        {
+          "def": "はたらきかけに、<ruby><rb>返事</rb><rt>へんじ</rt></ruby>がある。",
+          "hyouki": [
+            "返る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>表</rb><rt>おもて</rt></ruby>と<ruby><rb>裏</rb><rt>うら</rt></ruby>が<ruby><rb>反対</rb><rt>はんたい</rt></ruby>になる。",
+          "hyouki": [
+            "返る"
+          ]
+        },
+        {
+          "def": "すっかり…する。",
+          "hyouki": [
+            "返る"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "もとに<ruby><rb>返</rb><rt>かえ</rt></ruby>す。",
+          "hyouki": [
+            "戻す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のものをはく。",
+          "hyouki": [
+            "戻す"
+          ]
+        }
+      ]
+    }
+  }
+}
