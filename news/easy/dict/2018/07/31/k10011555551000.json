@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などのはたらきで、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きるようにしてある<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。",
+          "hyouki": [
+            "電池"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>りかえること。<ruby><rb>取</rb><rt>と</rt></ruby>りかわすこと。",
+          "hyouki": [
+            "交換"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "エンジンで<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>二輪車</rb><rt>にりんしゃ</rt></ruby>。<ruby><rb>自動二輪車</rb><rt>じどうにりんしゃ</rt></ruby>。バイク。",
+          "hyouki": [
+            "オートバイ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ねじ<ruby><rb>回</rb><rt>まわ</rt></ruby>し。",
+          "hyouki": [
+            "ドライバー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>の<ruby><rb>運転</rb><rt>うんてん</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ドライバー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ]
+    }
+  }
+}

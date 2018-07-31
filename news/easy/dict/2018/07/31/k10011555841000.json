@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ローマ<ruby><rb>法王</rb><rt>ほうおう</rt></ruby>。ローマカトリック<ruby><rb>教会</rb><rt>きょうかい</rt></ruby>の、いちばん<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>教皇</rb><rt>きょうこう</rt></ruby>。",
+          "hyouki": [
+            "法王"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちがうことばを<ruby><rb>話</rb><rt>はな</rt></ruby>す<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>のことばを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "通訳"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ローマ<ruby><rb>法王</rb><rt>ほうおう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とする、キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>の<ruby><rb>宗派</rb><rt>しゅうは</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。カソリック。<ruby><rb>旧教</rb><rt>きゅうきょう</rt></ruby>。",
+          "hyouki": [
+            "カトリック"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "信じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。",
+          "hyouki": [
+            "信じる"
+          ]
+        }
+      ]
+    }
+  }
+}
