@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>にさかんになった、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>劇</rb><rt>げき</rt></ruby>。<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>だけで<ruby><rb>演</rb><rt>えん</rt></ruby>じる。",
+          "hyouki": [
+            "歌舞伎"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>歌</rb><rt>うた</rt></ruby>やおどりや<ruby><rb>劇</rb><rt>げき</rt></ruby>などをすること。",
+          "hyouki": [
+            "公演"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "しばいをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>。",
+          "hyouki": [
+            "役者"
+          ]
+        },
+        {
+          "def": "<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>・<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>などがすぐれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "役者"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>ち。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "しなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>働</rb><rt>はたら</rt></ruby>かせる。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "役"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        },
+        {
+          "def": "<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        }
+      ]
+    }
+  }
+}
